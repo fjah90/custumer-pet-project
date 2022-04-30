@@ -1,0 +1,6 @@
+[submodule "custumer-pet-ng-front"]
+	path = custumer-pet-ng-front
+	url = https://github.com/fjah90/custumer-pet-ng-front.git
+[submodule "custumer-pet-nestjs-api"]
+	path = custumer-pet-nestjs-api
+	url = https://github.com/fjah90/custumer-pet-nestjs-api.git
