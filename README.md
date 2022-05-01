@@ -12,23 +12,24 @@ Se necesita un sistema que permita administrar personas con sus mascotas, cada m
 
 Además, se necesita que la información de los dueños y sus mascotas este expuesta en un API Rest.
 
-Requerimientos aplicación:
-🚩 Crear dueño con sus mascotas.
-🚩 Listar las mascotas de un dueño en específico.
+### Requerimientos aplicación:
 
-Requerimientos servicio:
+🚩 Crear dueño con sus mascotas.                        :white_large_square
+🚩 Listar las mascotas de un dueño en específico.       :white_large_square
 
-🚩 Exponer la información del dueño y sus mascotas.
+### Requerimientos servicio:
 
-Tecnología:
-🚩 Para la aplicación: Angular.
-🚩 Para el servicio: Node.
-🚩 Para la BD: Mongo/Mysql u otro.
+🚩 Exponer la información del dueño y sus mascotas.     :white_large_square
 
-Los archivos requeridos son:
-🚩 Código fuente aplicativo.
-🚩 Código fuente servicio.
-🚩 Dump bd.
+### Tecnología:
+🚩 Para la aplicación: Angular.     :white_check_mark:
+🚩 Para el servicio: Node. (NestJs) :white_check_mark:
+🚩 Para la BD: Mongo/Mysql u otro.  :white_check_mark:
+
+### Los archivos requeridos son:
+🚩 Código fuente aplicativo.    :white_large_square
+🚩 Código fuente servicio.      :white_large_square
+🚩 Dump bd.                     :white_large_square
 
 ## GitSubmodule Clone Repo
 -      git clone https://github.com/fjah90/custumer-pet-project.git
