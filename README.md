@@ -1,7 +1,10 @@
 # custumer-pet-project (Ingydev)
 Repositorio de proyecto de prueba para Ingydev implementando Submodulos con GIT
 
-* Tecnologias usadas NestJs v8 (Swagger, Mongoose) + Angular (Bootstrap v5) v13 + TS
+### Tecnologias usadas:
+* NestJs v8^ (Swagger, Mongoose)
+* Angular v13^ (Bootstrap v5)
+* Typescript v4^
 
 # Requerimiento
 
@@ -28,6 +31,6 @@ Los archivos requeridos son:
 * 🚩 Dump bd.
 
 ## GitSubmodule Clone Repo
--   git clone https://github.com/fjah90/custumer-pet-project.git
--   git submodule init
--   git submodule update
+-      git clone https://github.com/fjah90/custumer-pet-project.git
+-      git submodule init
+-      git submodule update
